@@ -1,0 +1,9 @@
+# Clawd of the Rings
+
+> The Clawd of the Rings showcase page for Clawd Clash, a free macOS app that shows your AI coding sessions (Claude Code, and the other AIs and harnesses it supports) as a pixel-art battle on the desktop or in a window. Every session is a hero or a villain, every subagent joins in, and they fight while they work. This repo holds no code: it only shows off the Clawd of the Rings universe (pictures, a promo video and a plain-language changelog).
+
+- Clawd of the Rings is the Middle-earth parody universe of Clawd Clash, from The Lord of the Rings and The Hobbit: 38 villains and 37 heroes (Gandclawd the Grey and the White, Frodough, Samwise, Arrogorn, Leggolas, Gimmie, Gladriel, Thorin Oakenshell, Sourun, Sarumanual, the Twitch-king, the Ballrog, Smeagull, Shellob, Smaug the Stashed, Azog and more) and 22 places (Bag Endpoint, the Prancing Ponytail, Rivendev, the Mines of Mori-ah, Lothlorem, Helm Chart's Deep, Minas Tiered, Mount Doomscroll, the Lonely Mount-point and more).
+- Set pieces: the Great Eagle picks up Gandclawd, Frodough and Samwise; one character in two guises is never on screen twice; Smaug only appears on his hoard; Shellob climbs her thread out of sight; Frodough slips the Ring on and fades; nine transitions (the Eye, the map, the Red Book, the Eagles, the Ring, the beacons, Gladriel's Mirror, Gandclawd's fireworks, the palantír).
+- Install: Clawd of the Rings ships with Clawd Clash from its next release (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Clawd of the Rings).
+- The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
+- The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, The Clawd Files and Stevie Clawdberg, and Clawd Royale, which puts them all in one scene.
