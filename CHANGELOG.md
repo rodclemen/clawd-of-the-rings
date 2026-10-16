@@ -2,7 +2,7 @@
 
 The changes you'd notice in the Clawd of the Rings universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
-## Coming in the next Clawd Clash release
+## Clawd Clash 3.5.0 (2026-10-16)
 
 - **A new universe.** Clawd of the Rings joins Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, The Clawd Files and Stevie Clawdberg: pick it in **Settings → Universe**, or in the screen saver's Options.
 - **75 characters from The Lord of the Rings and The Hobbit**, each with a signature move. Gandclawd the Grey slamming his staff down (*"You shall not pass!"*), Frodough slipping the Ring on and fading to a ghost, Samwise and his potatoes, Leggolas surfing on a shield, Boromeme's *"One does not simply…"*, Éowin's *"I am no manager!"*, the elves, Rohan and Gondor, the Ents and Thorin's company. Facing them, Sourun and the Eye, Sarumanual and the palantír, the wraiths, the Ballrog, Smeagull arguing with himself, Shellob, the orcs and Uruks, Smaug and Azog. HEM turns up in Rohan's helmet, and it comes off to let the buns out.

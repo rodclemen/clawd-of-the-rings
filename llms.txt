@@ -4,6 +4,6 @@
 
 - Clawd of the Rings is the Middle-earth parody universe of Clawd Clash, from The Lord of the Rings and The Hobbit: 38 villains and 37 heroes (Gandclawd the Grey and the White, Frodough, Samwise, Arrogorn, Leggolas, Gimmie, Gladriel, Thorin Oakenshell, Sourun, Sarumanual, the Twitch-king, the Ballrog, Smeagull, Shellob, Smaug the Stashed, Azog and more) and 22 places (Bag Endpoint, the Prancing Ponytail, Rivendev, the Mines of Mori-ah, Lothlorem, Helm Chart's Deep, Minas Tiered, Mount Doomscroll, the Lonely Mount-point and more).
 - Set pieces: the Great Eagle picks up Gandclawd, Frodough and Samwise; one character in two guises is never on screen twice; Smaug only appears on his hoard; Shellob climbs her thread out of sight; Frodough slips the Ring on and fades; nine transitions (the Eye, the map, the Red Book, the Eagles, the Ring, the beacons, Gladriel's Mirror, Gandclawd's fireworks, the palantír).
-- Install: Clawd of the Rings ships with Clawd Clash from its next release (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Clawd of the Rings).
+- Install: Clawd of the Rings ships with Clawd Clash 3.5.0 and later (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Clawd of the Rings).
 - The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
 - The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, The Clawd Files and Stevie Clawdberg, and Clawd Royale, which puts them all in one scene.

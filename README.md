@@ -149,7 +149,7 @@ The window can show the same view, and **Random** location moves the window some
 
 Clawd of the Rings is part of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes. It needs macOS 13+ and at least one of the [AIs and harnesses it supports](https://github.com/rodclemen/clawd-clash#supported-ais-and-harnesses).
 
-Clawd of the Rings isn't released yet. When it is, it comes with the next Clawd Clash release:
+It comes with Clawd Clash 3.5.0 and later. With Homebrew:
 
 ```sh
 brew tap rodclemen/tap
